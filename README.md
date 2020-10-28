@@ -1,8 +1,8 @@
 # flutter-series-apps
 
-# This repository contains apps which is developed for learning purpose.
+This repository contains apps which is developed for learning purpose.
 
-# Apps were developed by following Google's Developer Student Club (DSC) program.
+Apps were developed by following Google's Developer Student Club (DSC) program.
 
 # 1.Celebrity App 
   
